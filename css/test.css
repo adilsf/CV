@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+    margin: 0;
+}
+
+div {
+    /* display: inline-block; */
+    position: absolute;
+}
+
+.red {
+    background-color: red;
+    height: 100px;
+    width: 100px;  
+    top: 200px;  
+    left: 200px;
+}
+
+.blue {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    top: 100px;
+    left: 10px; 
+}
+
+.yellow {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;   
+}
